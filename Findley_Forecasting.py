@@ -1,3 +1,21 @@
+#!/usr/local/bin/python3
+
+"""
+* Name : Findley_Forecasting.py 
+* Author: David Findley
+* Created : 05/04/2023 - Finalized
+* Course: CIS 152 - Data Structures
+* Version: 1.0
+* OS: macOS 13.2.1
+* IDE: Visual Studio Code
+* Copyright : This is my own original work 
+* based on specifications issued by our instructor
+* Academic Honesty: I attest that this is my original work.
+* I have not used unauthorized source code, either modified or
+* unmodified. I have not given other fellow student(s) access
+* to my program.
+"""
+
 import sys
 import requests
 from PyQt5 import QtWidgets, QtGui, QtCore
